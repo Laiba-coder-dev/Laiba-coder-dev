@@ -1,11 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=1100&height=110&lines=Laiba+Mudassir;Software+Engineer+%7C+Front-End+Developer;Turning+creative+ideas+into+interactive+digital+experiences)](https://github.com/Laiba-coder-dev)
+<div align="center">
 
-[![Education](https://img.shields.io/badge/Education-Bachelors_in_SE_%40_USKT-0969DA?style=for-the-badge&logo=graduated&logoColor=white&labelColor=0D1117)](https://github.com/Laiba-coder-dev)
-[![Profile views](https://komarev.com/ghpvc/?username=Laiba-coder-dev&label=Views&color=6C63FF&labelColor=0D1117&style=for-the-badge)](https://github.com/Laiba-coder-dev)
+[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=B388EB&center=true&vCenter=true&width=1100&height=80&lines=Laiba+Mudassir)](https://github.com/Laiba-coder-dev)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E58FB9&center=true&vCenter=true&width=1100&height=50&lines=Software+Engineer+%7C+Front-End+Developer;Turning+creative+ideas+into+interactive+digital+experiences)](https://github.com/Laiba-coder-dev)
+
+[![Education](https://img.shields.io/badge/Education-Bachelors_in_SE_%40_USKT-F29BC4?style=for-the-badge&logo=graduated&logoColor=white&labelColor=B388EB)](https://github.com/Laiba-coder-dev)
+
+</div>
 
 ---
 
-**✨ Turning creative ideas into interactive digital experiences**
+**See What I am currently into**
 
 ![Current Status](./status.svg)
 
@@ -21,7 +26,7 @@
 
 ### `🛠️ tech stack`
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,py,java,cpp,cs,vscode,github,vite,androidstudio)](https://github.com/Laiba-coder-dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,py,java,cpp,cs,vscode,github,vite,androidstudio&theme=light)](https://github.com/Laiba-coder-dev)
 
 <br>
 
@@ -35,11 +40,17 @@
 
 ![divider](./divider.svg)
 
+### `🐍 contribution snake`
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Laiba-coder-dev/Laiba-coder-dev/output/github-contribution-grid-snake.svg)
+
+![divider](./divider.svg)
+
 ### `📊 contribution graph`
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/Laiba-coder-dev)
+![Contribution Graph](https://ghchart.rshah.org/B388EB/Laiba-coder-dev)
 
 </div>
 
@@ -47,5 +58,5 @@
 
 ### `🤝 connect`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/laiba-mudassir-345454294)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:laibamudassir97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B388EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-mudassir-345454294)
+[![Gmail](https://img.shields.io/badge/Gmail-F29BC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibamudassir97@gmail.com)
