@@ -1,0 +1,37 @@
+<svg width="860" height="260" viewBox="0 0 860 260" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="860" height="260" rx="12" fill="url(#cardGrad)" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="260" rx="2" fill="url(#accentGrad)"/>
+
+  <!-- Section label -->
+  <text x="30" y="36" font-size="11" fill="#6C63FF" font-weight="600" letter-spacing="3" text-anchor="start">WHO AM I</text>
+
+  <!-- Name -->
+  <text x="30" y="72" font-size="28" fill="#E6EDF3" font-weight="700">Laiba Mudassir</text>
+
+  <!-- Tagline -->
+  <text x="30" y="100" font-size="14" fill="#6C63FF">Software Engineer · Front-End Developer</text>
+
+  <!-- Divider line -->
+  <line x1="30" y1="116" x2="830" y2="116" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Bio bullets -->
+  <text x="30" y="146" font-size="13" fill="#8B949E">🎓  Completed Bachelors in Software Engineering @ USKT</text>
+  <text x="30" y="172" font-size="13" fill="#8B949E">💻  Specializing in Front-End development with React.js</text>
+  <text x="30" y="198" font-size="13" fill="#8B949E">🔥  Integrating backends and databases with Firebase</text>
+  <text x="30" y="224" font-size="13" fill="#8B949E">📱  Learning Flutter for mobile app development</text>
+  <text x="30" y="250" font-size="13" fill="#8B949E">🌱  Open to collaboration and new opportunities</text>
+</svg>

@@ -1,16 +1,61 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=1100&height=110&lines=Laiba+Mudassir;Software+Engineer+%7C+Front-End+Developer;Turning+creative+ideas+into+interactive+digital+experiences)](https://github.com/subhanbhatti50134-jpg)
 
-<!--
-**Laiba-coder-dev/Laiba-coder-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Education](https://img.shields.io/badge/Education-Bachelors_in_SE_%40_USKT-0969DA?style=for-the-badge&logo=graduated&logoColor=white&labelColor=0D1117)](https://github.com/subhanbhatti50134-jpg)
+[![Profile views](https://komarev.com/ghpvc/?username=subhanbhatti50134-jpg&label=Views&color=6C63FF&labelColor=0D1117&style=for-the-badge)](https://github.com/subhanbhatti50134-jpg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✨ Turning creative ideas into interactive digital experiences**
+
+![Current Status](./status.svg)
+
+![divider](./divider.svg)
+
+### `👾 whoami`
+
+![Who am I](./whoami.svg)
+
+> *"Turning creative ideas into interactive digital experiences."* — **Laiba Mudassir**
+
+![divider](./divider.svg)
+
+### `🛠️ tech stack`
+
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,py,java,cpp,cs,vscode,github,vite,androidstudio&theme=dark)](https://github.com/subhanbhatti50134-jpg)
+
+<br>
+
+**Frontend:** HTML, CSS, JavaScript, React.js
+
+**Backend & Database:** Node.js, Firebase, SQL
+
+**Programming Languages:** Python, Java, C++, C#
+
+**Tools & Platforms:** VS Code, GitHub, Vite, Android Studio
+
+![divider](./divider.svg)
+
+### `🐍 contribution snake`
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg)
+
+![divider](./divider.svg)
+
+### `📊 contribution graph`
+
+<div align="center">
+
+![Contribution Graph](https://ghchart.rshah.org/subhanbhatti50134-jpg)
+
+</div>
+
+![divider](./divider.svg)
+
+### `🤝 connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/laiba-mudassir-345454294)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:laibamudassir97@gmail.com)
+
+<br>
+
+*Thanks for visiting — stats refresh daily via GitHub Actions* 🚀
