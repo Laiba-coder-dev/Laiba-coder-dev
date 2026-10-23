@@ -40,7 +40,7 @@
 
 ### 🐍 contribution snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Laiba-coder-dev/Laiba-coder-dev/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg)
 
 ![divider](./divider.svg)
 
