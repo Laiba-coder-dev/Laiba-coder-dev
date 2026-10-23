@@ -1,62 +1,25 @@
-"[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=1100&height=110&lines=Laiba+Mudassir;Software+Engineer+%7C+Front-End+Developer;Turning+creative+ideas+into+interactive+digital+experiences)](https://github.com/subhanbhatti50134-jpg)
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="185" viewBox="0 0 860 185" role="img" aria-label="Currently exploring">
+  <defs>
+    <clipPath id="card">
+      <rect x="0" y="0" width="860" height="185" rx="12"/>
+    </clipPath>
+  </defs>
 
-[![Education](https://img.shields.io/badge/Education-Bachelors_in_SE_%40_USKT-0969DA?style=for-the-badge&logo=graduated&logoColor=white&labelColor=0D1117)](https://github.com/subhanbhatti50134-jpg)
-[![Profile views](https://komarev.com/ghpvc/?username=subhanbhatti50134-jpg&label=Views&color=6C63FF&labelColor=0D1117&style=for-the-badge)](https://github.com/subhanbhatti50134-jpg)
+  <g clip-path="url(#card)">
+    <rect width="860" height="185" fill="#0D1117"/>
+    <rect width="4" height="185" fill="#0969DA"/>
+  </g>
+  <rect x="0.5" y="0.5" width="859" height="184" rx="12" fill="none" stroke="#30363D"/>
 
----
+  <circle cx="30" cy="38" r="5" fill="#2EA043">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="46" y="42" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#6C63FF">CURRENTLY EXPLORING</text>
 
-**✨ Turning creative ideas into interactive digital experiences**
-
-![Current Status](./status.svg)
-
-![divider](./divider.svg)
-
-### 👾 whoami
-
-![Who am I](./whoami.svg)
-
-*"Turning creative ideas into interactive digital experiences."* — **Laiba Mudassir**
-
-![divider](./divider.svg)
-
-### 🛠️ tech stack
-
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,mysql,py,java,cpp,cs,vscode,github,vite,androidstudio&theme=dark)](https://github.com/subhanbhatti50134-jpg)
-
-<br>
-
-**Frontend:** HTML, CSS, JavaScript, React.js
-
-**Backend & Database:** Node.js, Firebase, SQL
-
-**Programming Languages:** Python, Java, C++, C#
-
-**Tools & Platforms:** VS Code, GitHub, Vite, Android Studio
-
-![divider](./divider.svg)
-
-### 🐍 contribution snake
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg)
-
-![divider](./divider.svg)
-
-### 📊 contribution graph
-
-<div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/subhanbhatti50134-jpg)
-
-</div>
-
-![divider](./divider.svg)
-
-### 🤝 connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/laiba-mudassir-345454294)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:laibamudassir97@gmail.com)
-
-<br>
-
-*Thanks for visiting — stats refresh daily via GitHub Actions* 🚀
-"
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#F0F6FC">
+    <text x="28" y="84">💻  Building responsive and visually engaging web applications with React.js</text>
+    <text x="28" y="112">🔥  Working with Firebase for backend services and database integration</text>
+    <text x="28" y="140">📱  Exploring mobile app development with Flutter</text>
+    <text x="28" y="168">🤖  Using AI-assisted development tools to build smarter and more efficient solutions</text>
+  </g>
+</svg>
