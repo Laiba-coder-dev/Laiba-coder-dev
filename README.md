@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=B388EB&background=0D111700&center=true&vCenter=true&width=1100&height=80&lines=Laiba+Mudassir)](https://github.com/Laiba-coder-dev)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E58FB9&background=0D111700&center=true&vCenter=true&width=1100&height=60&lines=Software+Engineer+%7C+Front-End+Developer;Turning+creative+ideas+into+interactive+digital+experiences)](https://github.com/Laiba-coder-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=B388EB&background=0D111700&center=true&vCenter=true&width=1100&height=80&lines=Laiba+Mudassir;Software+Engineer+%7C+Front-End+Developer;Where+creativity+meets+code)](https://github.com/Laiba-coder-dev)
 
 [![Education](https://img.shields.io/badge/Education-Bachelors_in_SE_%40_USKT-F29BC4?style=for-the-badge&logo=graduated&logoColor=white&labelColor=B388EB)](https://github.com/Laiba-coder-dev)
 
@@ -42,7 +40,7 @@
 
 ### 🐍 contribution snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Laiba-coder-dev/Laiba-coder-dev/output/github-contribution-grid-snake.svg)
 
 ![divider](./divider.svg)
 
