@@ -23,7 +23,7 @@
   <text x="30" y="72" font-size="28" fill="#E6EDF3" font-weight="700">Laiba Mudassir</text>
 
   <!-- Tagline -->
-  <text x="30" y="100" font-size="14" fill="#6C63FF">Software Engineer · Front-End Developer</text>
+  <text x="30" y="100" font-size="14" fill="#6C63FF">Software Engineer · Full-Stack Developer</text>
 
   <!-- Divider line -->
   <line x1="30" y1="116" x2="830" y2="116" stroke="#21262D" stroke-width="1"/>
