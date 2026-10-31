@@ -32,7 +32,7 @@
 
 **Backend & Database:** Node.js, Firebase, SQL
 
-**Programming Languages:** Python, Java, C++, C#
+**Programming Languages:** Java, C++, C#
 
 **Tools & Platforms:** VS Code, GitHub, Vite, Android Studio
 
