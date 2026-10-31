@@ -30,7 +30,7 @@
 
   <!-- Bio bullets -->
   <text x="30" y="146" font-size="13" fill="#8B949E">🎓  Completed Bachelors in Software Engineering @ USKT</text>
-  <text x="30" y="198" font-size="13" fill="#8B949E">🔥  Integrating backends and databases with Firebase</text>
-  <text x="30" y="224" font-size="13" fill="#8B949E">📱  Learning Flutter for mobile app development</text>
-  <text x="30" y="250" font-size="13" fill="#8B949E">🌱  Open to collaboration and new opportunities</text>
+  <text x="30" y="172" font-size="13" fill="#8B949E">🔥  Integrating backends and databases with Firebase</text>
+  <text x="30" y="198" font-size="13" fill="#8B949E">📱  Learning Flutter for mobile app development</text>
+  <text x="30" y="224" font-size="13" fill="#8B949E">🌱  Open to collaboration and new opportunities</text>
 </svg>
