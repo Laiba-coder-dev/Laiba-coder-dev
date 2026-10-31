@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=B388EB&background=0D111700&center=true&vCenter=true&width=1100&height=80&lines=Laiba+Mudassir;Software+Engineer+%7C+Front-End+Developer;Where+creativity+meets+code)](https://github.com/Laiba-coder-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=B388EB&background=0D111700&center=true&vCenter=true&width=1100&height=80&lines=Laiba+Mudassir;Software+Engineer+%7C+Full-Stack+Developer;Where+creativity+meets+code)](https://github.com/Laiba-coder-dev)
 
 [![Education](https://img.shields.io/badge/Education-Bachelors_in_SE_%40_USKT-F29BC4?style=for-the-badge&logo=graduated&logoColor=white&labelColor=B388EB)](https://github.com/Laiba-coder-dev)
 
